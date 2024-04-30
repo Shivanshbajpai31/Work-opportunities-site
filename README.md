@@ -1,3 +1,6 @@
-Here is the deployment link of the website : https://work-opportunities-site.vercel.app/
+Here is the deployment link of the website: https://work-opportunities-site.vercel.app/
 
-It is a website that contains the work opportunities in Japan and it tells the job details_
+To deploy this website you have to click on the given vercel link
+
+It is a website that contains work opportunities in Japan and it tells the job details also on this website, it can be used on phones, smartphones, tablets, computers, laptops, etc.
+
